@@ -1,6 +1,11 @@
 # Pinewood-Derby-EDF-Car
 Pinewood Derby EDF Car - 3D Printed - No Rules Class
 
+
+# Video
+[![3S Lipo Derby Car](https://youtu.be/aO6EFbBWNBQ)]
+
+# Detail
 This is a remix of the ducted fan derby car posted by NegativeC [here](https://github.com/NegativeC/ducted-fan-pinewood-derby).
 
 I also designed the car similar to Christopher-72 from the issues thread on that project. [Go give those a look](https://github.com/NegativeC/ducted-fan-pinewood-derby/issues/2) for ideas as well.
